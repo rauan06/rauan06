@@ -2,7 +2,7 @@
 - 👀 I’m interested in machine learning
 - 🌱 I’m currently learning algorithms
 - 💞️ I’m looking to collaborate on django or python projects
-- 📫 How to reach me t.me/nocartev
+- 📫 How to reach me - ommirkul@gmail.com or t.me/nocartev
 - ⚡ Fun fact: I'm not funny
 
 <!---
