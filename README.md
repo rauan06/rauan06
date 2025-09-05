@@ -1,2 +1,5 @@
-### 📈 Contribution Stats
-![Rauan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rauan06&show_icons=true&theme=radical)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Welcome+to+my+dream+world+%3A)" alt="Typing SVG" /></a>
+
+<p align="center">
+  <img src="https://github.com/amir-wyvern/amir-wyvern/blob/main/robot.svg">
+</p> 
