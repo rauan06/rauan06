@@ -10,8 +10,6 @@ I am an Information Systems student at [Brawijaya University](https://ub.ac.id).
 *   🧠  I'm learning back-end web development & software engineering
 *   🐧  Linux and FOSS enthusiast (I use Arch BTW)
 
-<a href="https://www.github.com/rauan06" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/rauan06?logo=github&style=for-the-badge&color=e5e5e5&labelColor=171717"/></a>
-
 # 💻 Tech Stack
 
 ## Tools
