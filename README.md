@@ -23,6 +23,8 @@ I am an Information Systems student at [Brawijaya University](https://ub.ac.id).
 ## Frameworks && Libraries
 
 [![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/) [![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/) [![Gorilla](https://img.shields.io/badge/gorilla-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)](https://www.gorillatoolkit.org/)
+[![GORM](https://img.shields.io/badge/gorm-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)](https://gorm.io/)
+
 
 ## Databases
 
