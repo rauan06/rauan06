@@ -3,7 +3,7 @@ Hi! 👋 My name is Rauan Omirkul
 
 # 💫 About Me
 
-I am an Information Systems student at [Astana IT University](https://astanait.edu.kz/).
+I am an Computer Science student at [Astana IT University](https://astanait.edu.kz/).
 
 *   🌍  I'm based in Astana,Kazakhstan
 *   ✉️  You can contact me at [ommirkulr@gmail.com](mailto:ommirkulr@gmail.com)
